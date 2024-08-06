@@ -1,0 +1,26 @@
+
+body {
+  background-color: #101010;
+}
+.gog {
+  height: 40%;
+  width: 40%;
+  margin-left: 30%;
+  margin-bottom: 0%;
+  margin-top: 30%;
+  border-radius: 50%;
+  
+}
+.name {
+  margin-left: 20%;
+  margin-top: 0%;
+  font-size: 30px;
+  color: white;
+}
+.shound {
+  font-size: 15px;
+  width: 100%;
+  margin-top: 60px;
+  color: white;
+  text-align: right;
+}
