@@ -12,14 +12,15 @@ body {
   
 }
 .name {
-  margin-left: 40%;
+  margin-left: 50%;
   margin-top: 0%;
   font-size: 30px;
   color: white;
 }
 .shound {
   font-size: 15px;
-  width: 100%;
+  width: 90%;
+  margin: 10%;
   margin-top: 60px;
   color: white;
   text-align: right;
